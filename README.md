@@ -1,1 +1,1 @@
-### tangyulun 的个人简历：[GitHub](https://benny-x.github.io/resumeV1/) & [Gitee](https://tangyulun.gitee.io/tyl-resume/)
+### tangyulun 的个人简历：[GitHub](https://tangyulun.github.io/resumeV1/) & [Gitee](https://tangyulun.gitee.io/tyl-resume/)
